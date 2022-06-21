@@ -1,0 +1,9 @@
+# figures
+global-seismicity-ISC.pdf
+*jpg
+*png
+
+# earthquake catalogs
+catalog/1*.dat
+catalog/2*.dat
+catalog-ISC/
