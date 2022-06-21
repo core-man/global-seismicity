@@ -1,7 +1,8 @@
 # Plot global seismicity
 
 I used GMT (https://www.generic-mapping-tools.org/) to plot global seismicity
-and Earth relief.
+and Earth relief. The uploaded pdf is compressed via the ilovepdf (https://www.ilovepdf.com/compress_pdf)
+due to the size limit.
 
 ## Catalog
 
