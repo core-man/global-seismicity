@@ -8,8 +8,8 @@ from obspy import UTCDateTime
 
 
 os.makedirs("catalog", exist_ok=True)
-# client = Client("USGS")
-client = Client("ISC")
+client = Client("USGS")
+# client = Client("ISC")
 
 for year in range(1900, 2023):
     catalog = client.get_events(starttime=UTCDateTime(f"{year}-01-01T00:00:00.000"),
